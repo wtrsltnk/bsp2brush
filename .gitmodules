@@ -1,0 +1,6 @@
+[submodule "libs/game-assets"]
+	path = libs/game-assets
+	url = https://github.com/wtrsltnk/game-assets.git
+[submodule "win-cpp-deps.cmake"]
+	path = win-cpp-deps.cmake
+	url = https://wtrsltnk@bitbucket.org/wincppdeps/win-cpp-deps.cmake.git
